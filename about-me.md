@@ -35,7 +35,7 @@ We move things in Padua's CS scene with <a href="http://www.programmersinpadua.i
 		<li><b>Twitter:</b> <a href="https://twitter.com/ogeidix">@ogeidix</a></li>
 		<li><b>Github:</b> <a href="https://github.com/ogeidix">@ogeidix</a></li>
 		<li><b>Linkedin:</b> <a href="http://www.linkedin.com/in/diegogiorgini">Diego Giorgini</a></li>
-		<li><b>Twitter:</b> <a href="https://www.facebook.com/diegogiorgini">Diego Giorgini</a></li>				
+		<li><b>Facebook:</b> <a href="https://www.facebook.com/diegogiorgini">Diego Giorgini</a></li>				
 	</ul>
 </div>
 
