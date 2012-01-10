@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible' />
+    <title>{{ page.title }}</title>
+    <meta content='Diego Giorgini, @ogeidix' name='author' />
+    <link href='/css/blueprint/screen.css' media='screen, projection' rel='stylesheet' type='text/css' />
+    <link href='/css/blueprint/print.css' media='print' rel='stylesheet' type='text/css' />
+    <link href='/css/style.css' media='screen, projection' rel='stylesheet' type='text/css' />
+    <!--[if lt IE 8]>
+      <link href='/css/blueprint/ie.css' media='screen, projection' rel='stylesheet' type='text/css' />
+    <![endif]-->
+		<meta property="og:title" content="{{ page.title }}"/>
+		<meta property="og:type" content="{{ page.type }}"/>
+		<meta property="og:url" content="www.ogeidix.com{{ page.url }}"/>
+		<meta property="og:image" content="{{ page.image }}"/>
+		<meta property="og:site_name" content="ogeidix's blog"/>
+		<meta property="fb:admins" content="diegogiorgini"/>
+		<meta property="og:description" content="{{ page.excerpt }}"/>
+  </head>
+  <body>
+    <header>
+      <div class='title'>
+        <a href='/'>ogeidix.org</a>
+      </div>
+      <div class='subtitle'>hacking with code and life</div>
+      <img class='photo' src='/images/ogeidix.png' />
+      <p>
+        My name is
+        <b>Diego Giorgini.</b>
+        I like building things, learning new technologies and
+        <br />
+        exploring new ideas.
+        <br />
+        I study
+        <b>Computer Science</b>
+        in
+        <a href='/blog/tags/padua.html'>Padua</a>
+        and I'm engaged with
+        <a href='/blog/tags/security.html'>#security</a>
+        <a href='/blog/tags/lifehacking.html'>#lifehacking</a>
+        <a href='/blog/tags/coding.html'>#coding</a>
+        <a href='/blog/tags/web.html'>#web</a>
+        <a href='/blog/tags/ruby.html'>#ruby</a>
+        and
+        <a href='/blog/tags/startups.html'>#startups</a>
+        ...
+      </p>
+      <p>
+        I am
+        <b>@ogeidix</b>
+        on
+        <a href='http://twitter.com/ogeidix'>Twitter</a>
+        and
+        <a href='https://github.com/ogeidix'>Github</a>
+      </p>
+      <nav>
+        <ul>
+          <li>
+            <a href='/aboutme.html'>about me</a>
+          </li>
+          <li>
+            <a href='/archive.html'>blog</a>
+          </li>
+          <li>
+            <a href='/projects.html'>projects</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+    <!-- Miss Analytics -->
+    <!--[if lt IE 7]>
+      <script src='//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js'></script>
+      <script type='text/javascript'>
+        //<![CDATA[
+          window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})
+        //]]>
+      </script>
+    <![endif]-->
+  </body>
+</html>

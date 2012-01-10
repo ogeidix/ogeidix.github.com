@@ -1,0 +1,4 @@
+markdown: rdiscount
+pygments: true
+permalink: /blog/:year/:month/:day/:title.html
+exclude: [Gemfile, Gemfile.lock]

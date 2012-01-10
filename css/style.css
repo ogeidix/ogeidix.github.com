@@ -1,0 +1,225 @@
+h3 {
+	margin-bottom: 5px;
+}
+
+body > header {
+	position: fixed; left: 0px; top: 0;
+	width: 230px; height: 100%;
+/*	background: #eee;*/
+	padding: 15px;
+}
+
+body > header .title {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+body > header .subtitle {
+	font-family: monospace;
+	font-size: 12px;
+	margin-top: -7px;
+}
+
+body > header a.github {
+	background: url(/images/github.png) no-repeat 0 -1px;
+	padding-left: 18px;
+}
+
+body > header a.github:hover, body > header a.twitter:hover {
+	background-position: 0 -18px;
+}
+
+body > header a.twitter {
+	background: url(/images/twitter.png) no-repeat 0 -2px;
+	padding-left: 18px;
+}
+
+body > header p {
+	margin-top: 10px;
+}
+
+body > header nav ul {
+	list-style: none;
+	padding-left: 0;
+	font-size: 16px;
+	font-family: monospace;
+}
+
+body > header nav ul li {
+	padding-left: 2px;
+	margin-bottom: 5px;
+	float:left;
+	clear: both;
+	border-left: 10px solid #ddd;
+}
+
+
+
+body > header nav ul li:hover {
+	border-color: #ccc;
+}
+
+body > header nav ul li:hover a, body > header nav ul li a {
+	display: block;
+	padding: 0 3px;
+	float:left;
+	clear: both;
+}
+
+body > header nav ul li:hover a, body > header nav ul li:hover a:hover {
+	background: #eee;
+	color: #06C;
+}
+
+body > header nav ul li a:hover {
+	text-decoration: none;
+}
+
+body > header .photo {
+	-webkit-box-shadow: 1px 1px 4px rgba(100, 100, 100, 0.6);
+  box-shadow: 1px 1px 4px rgba(100, 100, 100, 0.6);
+  background: white;
+  padding: 12px;
+  width: 180px;
+	margin-top: 20px;
+}
+
+body > section {
+	margin-left: 270px;
+	padding-top: 25px;
+	width: 700px;	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.articles {
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 20px;
+}
+
+.articles article {
+	margin-bottom: 20px;
+}
+
+.articles article header h2 {
+	margin-bottom: 0;
+}
+
+.tags {
+	font-size: 11px;
+	font-family: monospace;
+}
+
+.tags a:hover {
+	text-decoration: none;
+	background: #0099ff;
+	color: #FFF;
+}
+
+.articles article footer {
+	font-size: 11px;
+}
+
+.articles article footer .date {
+	color: #888;
+	text-transform: uppercase;
+}
+
+.recent-posts {
+	float: left;
+	width: 335px;
+	margin-right: 15px;
+	min-height: 200px;
+}
+
+.recent-posts > h2 {
+	margin-bottom: 0;
+}
+
+.recent-posts li span{
+	font-size: 11px;
+	color: #aaa;
+	font-family: monospace;
+}
+
+.recent-posts ul{
+	list-style: none;
+	padding-left: 5px;
+}
+
+.tweets {
+	float: left;
+	width: 350px;
+}
+
+.tweets > h2 {
+	margin-bottom: 0;
+}
+
+.tweet {
+	background: #eee;
+	display: block;
+	font-size: 11px;
+	margin-bottom: 15px;
+	padding: 6px 5px;
+	min-height: 50px;
+	margin-left: 5px;
+	float: left;
+}
+
+.tweet .author {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.tweet img.avatar {
+	float: left;
+	margin-right: 5px;
+	border: 1px solid #ccc;
+}
+
+.tweet a.date {
+	color: #666;
+	float: right;
+}
+
+.archive h3 {
+	padding-left: 15px;
+	margin-bottom: 10px;
+}
+
+.archive ul {
+	padding-left: 30px;
+	list-style: none;
+}
+
+.archive li .date {
+	font-weight: bold;
+	color: #888;
+}
+
+.archive li .tags {
+	font-family: monospace;
+	color: #888;
+	padding-left: 15px;
+}
+
+.twitter-share-button {
+	margin-bottom: 5px;
+}
+
+.large {
+	line-height: 1.5em;
+}
+
+.column {
+	float: left;
+	width: 340px;
+	margin-bottom: 20px;
+}
