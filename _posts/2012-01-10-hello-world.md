@@ -2,7 +2,7 @@
 layout: posts
 title: Hello world - ogeidix's blog
 tags: [lifehacking]
-excerpt: I'm not sure about what happened but, after a long and imprecise time, here we are! This blog is born! <br />...Get the challenges and do what you love
+excerpt: I'm not sure about what happened but, after a long and imprecise time, here we are! This blog is born! <br />...Get the challenges and do what you love.
 image: http://www.ogeidix.com/images/The-Holstee-Manifesto.jpeg
 ---
 Hello world

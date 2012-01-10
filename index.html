@@ -14,7 +14,7 @@ type: blog
 				{% endfor %}
 			</div>
 		</header>
-		<section>{{ post.excerpt }}</section>
+		<section>{{ post.excerpt }} <a href="{{ post.url }}">read more &raquo;</a></section>
 		<footer><span class="date">{{ post.date | date_to_long_string }} &mdash;</span> <a href="{{ post.url }}#disqus_thread"></a></footer>
 	</article>
   {% endfor %}
@@ -23,7 +23,7 @@ type: blog
 <section class="recent-posts">
 	<h2>Recent Posts</h2>
 	<ul>
-		{% for post in site.posts offset:1 limit:6 %}
+		{% for post in site.posts offset:3 limit:6 %}
       <li><span class="date">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 		<li><a href="/archive.html">&laquo; posts archive</a></li>
