@@ -10,7 +10,7 @@ Hello there!
   <br />
 	When I can I go to mountains or <b>travel</b> while daily I study <b>Computer Science</b> at 
 	<a href="http://www.unipd.it">University of Padua</a>
-  and I'm engaged with
+  and I'm involved in 
   <a href='/blog/tags/security.html'>#security</a>
   <a href='/blog/tags/lifehacking.html'>#lifehacking</a>
   <a href='/blog/tags/coding.html'>#coding</a>
@@ -21,7 +21,7 @@ Hello there!
   ...
 </p>
 
-<div class="column">I was involved in many teams and communities starting from the high school where I helped to restart a uber geek afterschool group (<a href="http://www.tronweb.it">tronweb.it</a>).
+<div class="column">I worked with many teams and communities starting from the high school where I helped to restart a uber geek afterschool group (<a href="http://www.tronweb.it">tronweb.it</a>).
 Now I work with <a href="https://twitter.com/pigatss">@pigatss</a> at <a href="http://www.fruktarbo.com">Fruktarbo.com</a> in some cool <a href="/projects.html">projects</a>.
 </div>
 
