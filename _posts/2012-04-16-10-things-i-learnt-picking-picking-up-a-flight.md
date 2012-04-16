@@ -3,7 +3,7 @@ layout: posts
 title: 10 things I learnt picking up a flight
 tags: [travel, london, dublin, lifehacking]
 excerpt: Things I learnt travelling five days between London and Dublin...
-image: http://www.ogeidix.com/images/bus.jpeg
+image: http://www.ogeidix.com/images/bus.jpg
 ---
 10 things I learnt picking up a flight
 ======================================
