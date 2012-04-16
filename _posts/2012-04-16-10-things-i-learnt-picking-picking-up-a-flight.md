@@ -3,9 +3,9 @@ layout: posts
 title: 10 things I learnt picking up a flight
 tags: [travel, london, dublin, lifehacking]
 excerpt: Things I learnt travelling five days between London and Dublin...
-image: http://www.ogeidix.com/images/manifesto20122.jpeg
+image: http://www.ogeidix.com/images/bus.jpeg
 ---
-10 thinks I learnt picking up a flight
+10 things I learnt picking up a flight
 ======================================
 
 After 3 month spent studying day and night for my spring exams session I decided that I really needed a bunch of days off, a concentrate of life. So I took my backpack e picked up a flight.
@@ -28,7 +28,7 @@ ps: this is particularly true for lowcost companies (ryanair, easyjet) **but is 
 ### 2. Internet is everywhere, be sure to be ready
 ---------------------------------------------------
 Internet is **really** everywhere! I had wifi connection while being in buses, in bars, in parks and also in the ferry in the middle of the sea!
-(Actually I had also a 3G connection really everywhere thanks to H3G who offer free roaming internet plan in all the Europe!)
+(Actually I had also a 3G connection really everywhere thanks to H3G who offers free roaming internet plan in all the Europe!)
 
 But you can't connect to internet without a proper (and charged) device.
 Smartphone and laptop are important if you are travelling without a complete plan.
@@ -70,7 +70,7 @@ I went to visit London and Dublin but the city I liked most was Holyhead, met in
 
 ### 8. Travel alone is the way
 --------------------------
-The road is your! To travel alone is the only way to access to the all possibilities that will open to you once you choose to leave. Destinations, place to visit, way to travel, things to do.
+The road is your! To travel alone is the only way to access to all possibilities that will open to you once you choose to leave. Destinations, places to visit, way to travel, things to do.
 
 ### 9. Meet people
 --------------
@@ -85,7 +85,7 @@ Speak with everyone, in the hostel, in the train, in the streets *(could you tak
 <img src="/images/go.jpg" style="width: 150px; float:right;  margin: 0px 0px 10px 5px">
 Still here? Really.. **leave!**
 
-When I was came back to home I met the granfather of a friend of mine who suddenly said:
+When I was came back to home I met the grandfather of a friend of mine who suddenly said:
 > "You can come with no money but richer than ever"
 
 <br /><br />
