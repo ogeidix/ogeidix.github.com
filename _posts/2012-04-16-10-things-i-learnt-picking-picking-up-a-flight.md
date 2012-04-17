@@ -8,7 +8,7 @@ image: http://www.ogeidix.com/images/bus.jpg
 10 things I learnt picking up a flight
 ======================================
 
-After 3 month spent studying night and day for my spring exams session I decided that I really needed a bunch of days off, a concentrate of life. So I took my backpack e picked up a flight.
+After 3 months spent studying night and day for my spring exams session I decided that I really needed a bunch of days off, a concentrate of life. So I took my backpack e picked up a flight.
 
 These are some concrete things I learnt traveling five days between London and Dublin.
 
@@ -21,7 +21,7 @@ These are some concrete things I learnt traveling five days between London and D
 
 ### 1. Book in advance really worth it
 -----------------------------------
-While I searched to keep low my travel expenses I waited too much to buy tickets.  
+While I was searching to keep low my travel expenses I waited too much to buy tickets.  
 If you don't want pay high fees you must buy all tickets in advance!  
 ps: this is particularly true for low cost companies (ryanair, easyjet) **but is also valid for train and ferries!**
 
