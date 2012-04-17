@@ -45,7 +45,7 @@ It's not necessary to repeat the **minimalism mantra** right?
 Actually some little things can be very useful. So before leave for the next trip remember to buy:
 
 - socket adapter
-- padlock
+- **padlock**
 - mini shampoo
 
 
