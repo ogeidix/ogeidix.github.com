@@ -3,7 +3,7 @@ layout: posts
 title: Going to USA
 tags: [study, travel]
 excerpt: "Ready? GO! I am starting a really big adventure that will last not less than 8 months."
-image: http://farm9.staticflickr.com/8176/7911499020_9220fc17d8_q.jpg
+image: http://www.ogeidix.com/images/seeulateralligator.jpeg
 ---
 Going to USA!
 ===========
@@ -13,7 +13,7 @@ This adventure is named **UCEAP**: [University of California, Educational Abroad
 
 <img src="/images/uceap.png" style="border: 4px solid #eee"/>
 
-UCEAP is a student exchange program that permits to the students of more than 100 universities to study abroad for 2 quarters.
+UCEAP is a student exchange program that allows to the students of more than 100 universities to study abroad for 2 quarters.
 
 As student of the [University of Padova](http://www.unipd.it) I participated in the last selections and won a grant to study at the [University of California - Irvine](http://uci.edu) for fall and winter quarters.
 This win was not a quick result. I started the preparation one year before looking for information and contacts and working hard for my bachelors degree.  
@@ -21,7 +21,8 @@ Obviously something has to happen and so I seriously risked to miss the deadline
 
 After more than 6 months I finally have in my hands the **flight ticket to Irvine** (plus the **J-1 Visa** and the famous document ds2019)
 
-This experience will be a true adventure. Because of me and because the far and the last of this travel everything is a bit unknown. I haven't a precise plan and I don't know what opportunities I will have.
+This experience will be a true adventure.Because I am what I am, because I am so far away from home and I am staying away for quite a long time everything is a bit unknown. I haven't a precise plan and I don't know what opportunities I will have.
+
 
 The guide lines of this adventure are few:
 
@@ -37,13 +38,16 @@ The guide lines of this adventure are few:
 <a href="http://www.flickr.com/photos/ogeidix/7911491682/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8035/7911491682_eb086037e6_s.jpg" /></a>
 <a href="http://www.flickr.com/photos/ogeidix/7911492994/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8452/7911492994_922e92e762_s.jpg" /></a>
 <a href="http://www.flickr.com/photos/ogeidix/7911493756/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8038/7911493756_d21a992247_s.jpg" /></a>
+<!--
 <a href="http://www.flickr.com/photos/ogeidix/7911494904/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8316/7911494904_8735b88fd6_s.jpg" /></a>
 <a href="http://www.flickr.com/photos/ogeidix/7911495812/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8310/7911495812_4d5b7966b8_s.jpg" /></a>
 <a href="http://www.flickr.com/photos/ogeidix/7911496922/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8457/7911496922_ab0d308754_s.jpg" /></a>
 <a href="http://www.flickr.com/photos/ogeidix/7911499020/in/set-72157631362259196"><img src="http://farm9.staticflickr.com/8176/7911499020_9220fc17d8_s.jpg" /></a>
+-->
+<img src="/images/seeulateralligator.jpeg" style="height: 110px; border: none; margin-bottom: -15px" />
 </div>
 <br />
-PS: In the waiting of a full of feeling post about "the leave" I want to thanks all my friends, parents and familiar.
+PS: In the waiting of a post about "the leave" I want to thank all my friends, parents and my family.
 All you are something really precious to me, moreover now that I am far from home.
 well… I hope you enjoyed the GoodBye Mama party :)   
 **SEE U ALLIGATOR!!! xoxoxoxo**
