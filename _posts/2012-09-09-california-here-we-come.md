@@ -34,8 +34,8 @@ I landed in a small airport in Long Beach and then I took 3 bus to reach the clo
 
 Shawn, the master of couchsurfers
 ---------------------------------
-Arrived in Irvine I fulfilled one of the coolest things in my todo list of ever: become an actual CouchSurfer!
-Thanks to Shawn who responded to my "Couch Emergency Request" sent from NYC I found a new friend in Irvine even before my arrival.
+Arrived in Irvine I fulfilled one of the coolest things in my todo list of ever: become an actual <a href="http://www.couchsurfing.org">CouchSurfer</a>!   
+Thanks to <a href="http://www.couchsurfing.org/profile.html?id=BFBHEVF">Shawn</a> who responded to my "Couch Emergency Request" sent from NYC I found a new friend in Irvine even before my arrival.
 
 <div class="gallery">
 <a href="http://www.flickr.com/photos/ogeidix/7993023803/in/set-72157631551892294"><img src="http://farm9.staticflickr.com/8451/7993023803_efaa08cfd3_s.jpg" /></a>

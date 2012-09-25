@@ -20,13 +20,13 @@ Jet, kiwi super dancer
 <a href="https://sphotos-a.xx.fbcdn.net/hphotos-ash3/c0.0.403.403/p403x403/557540_3651747853322_1523308196_n.jpg"><img style="width: 85px" src="http://www.ogeidix.com/images/jet.jpg" /></a>
 </div>
 
-I was in a pub with the EAP crew when Jet came.   
+I was in a pub with the EAP crew when <a href="http://www.couchsurfing.org/people/jet.alabastro/">Jet</a> came.   
 **Me:** _“Hi, I am Diego and I am temporarily hosted by Shawn”_       
 **Jet:** _“Nice to meet you Diego. I am Jet and I am hosted by Shawn too”_   
 
 I had just met my new livingroom-mate!
 
-Jet is EAP student from new zealand and a couchsurfer like me.   
+Jet is EAP student from new zealand and a <a href="http://www.couchsurfing.org">couchsurfer</a> like me.   
 He is really easy going and walking / talking with him is simply too funny.  
 We stayed together in Shawn's house and we had a lot of fun and parties.
 
