@@ -1,0 +1,46 @@
+body > header {
+	position: relative;
+	width: 100%;
+	height: 80px
+}
+
+body > header .photo{
+	position: absolute;
+	top: -30px;
+	left: 15px;
+	width: 100px;
+	padding: 5px;
+}
+
+body > header .title{
+	position: absolute;
+	top: -5px;
+	left: 140px
+}
+
+body > header .subtitle{
+	position: absolute;
+	top: 60px;
+	left: 140px;
+}
+
+body > header p{
+	display: none;
+}
+
+body > header nav{
+	position: absolute;
+	top: 10px;
+	left: 400px;
+}
+
+body > header nav ul li{
+	clear: none;
+	margin-right: 20px;
+}
+
+body > section {
+	padding: 15px;
+	margin: 0px;
+	width: 100%
+}

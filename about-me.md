@@ -9,8 +9,8 @@ Hello there!
   I like building things, learning new technologies and exploring new <b>ideas</b>.
   <br />
 	When I can I go to mountains or <b>travel</b> while daily I study <b>Computer Science</b> at 
-	<a href="http://www.unipd.it">University of Padua</a>
-  and I'm involved in 
+	<a href="http://www.unipd.it">University of Padua</a> (Italy) and <a href="http://uci.edu">UC Irvine</a> (CA).
+  I'm involved in 
   <a href='/blog/tags/security.html'>#security</a>
   <a href='/blog/tags/lifehacking.html'>#lifehacking</a>
   <a href='/blog/tags/coding.html'>#coding</a>

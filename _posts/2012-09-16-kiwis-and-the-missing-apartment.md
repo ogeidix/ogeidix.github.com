@@ -9,7 +9,7 @@ Kiwis and the missing apartment
 ===============================
 
 It's hard to come back to work after so many vacations. 
-Unfortunately the mountain of things to do grew so much that I really needed to take some time to come back to the keyboard and to do some boring works.
+Unfortunately the mountain of things to do grew so much that I really needed to take some time to come back to the keyboard and to do some boring work.
 
 However this didn't prevent many funny things to happen, afterall I am in California, guys!
 
@@ -42,7 +42,7 @@ The possibilities were mainly three: OnCampus, the Courts or far-far-away
 **First:** OnCampus Housing
 
 The apartments inside the campus perimeter are considered **oncampus**.    
-Here you can you use some campus services like free buses and here live The major part of the students.  
+Here you can you use some campus services like free buses and most of the students live here.  
 This is also the place where there are the **fraternities** and the **sororities** and, obviously, the parties!
 
 <div class="gallery">
@@ -63,7 +63,7 @@ The students who live oncampus can enjoy many amenities like swimming pools, jac
 **Second:** The Courts close to the campus
 
 Out of the campus perimeter (formally Campus drive) there is a big residential area splitted in many "courts".  
-Here live students as well as families and people who work at the university. Even if here you are offcampus some of these courts are closer to the campus than some oncampus apartments.   
+Students, families and people who work at the university live here. Even if here you are offcampus some of these courts are closer to the campus than some oncampus apartments.   
 
 <div class="gallery" >
 <a href="http://www.flickr.com/photos/ogeidix/8003592342/in/set-72157631551892294"><img src="http://farm9.staticflickr.com/8316/8003592342_1fef64d0e8_s.jpg" /></a>
@@ -77,12 +77,12 @@ Here live students as well as families and people who work at the university. Ev
 <br /><br />
 </div>
 
-This apartments are rented by a private company and come completely without forniture but... even this "courts" have their swimming pool, barbeque and recreational area. 
+These apartments are rented by a private company and come completely without forniture but... even these "courts" have their swimming pool, barbeque and recreational area. 
 
 **Third:** Far Far Away
 
 The last possibility are normal apartments in the near cities like Irvine, Newport or Costa Mesa.   
-There you can find cheaper apartments as well single rooms rented by families.   Unfortunately you will be quite far from the campus, you will need a car and you will be excluded from the campus live.   Not a good solution!
+There you can find cheaper apartments as well as single rooms rented by families.   Unfortunately you will be quite far from the campus, you will need a car and you will be excluded from the campus live.   Not a good solution!
 
 
 A bit (actually a lot) of work
@@ -96,7 +96,7 @@ As I said before I dedicated this week to work on my laptop, either for work and
 Quickly the Starbucks became my office and I really spent many hours there.
 Here some facts that can tell you the level I reached:
 
-* I started to recognize the people with whom I was "sharing the office" and I started to feel myself at home
+* I started to recognize the people with whom I was "sharing the office" and I started to feel at home
 * I bought the starbucks card and I was keen to reach the gold level
 * The last day of the week, when I arrived in the early morning, the barman called me by name and asked me:   
 _"Diego, the usual, right?"_ (I am not joking!!)
@@ -115,10 +115,10 @@ Saturday is saturday, let's go to the beach!
 <a href="http://www.flickr.com/photos/ogeidix/8003407408/in/set-72157631551892294"><img src="http://farm9.staticflickr.com/8172/8003407408_225da304ac_s.jpg" /></a>
 <br /><br /></div>
 
-After a week of work you need to rest, and what is better than a day in the beach?
+After a week of work you need to rest, and what is better than a day at the beach?
 Unfortunately my friends were in Los Angeles for a two days trip (I skipped because of the mountain of work to do) but don't worry, just few posts on facebook and I found another group on EAP students to join.
 
-I, Bel (Australia), Sophie (Denmark), Pablo (Spain) and Rie (Giappone) have been in the beach for the whole day and when we came back to the campus we did a nice... BARBEQUE PARTY!
+Bel (Australia), Sophie (Denmark), Pablo (Spain), Rie (Giappone) and me have been in the beach for the whole day and when we came back to the campus we did a nice... BARBEQUE PARTY!
 
 <div  class="gallery" style="float:left; margin-right: 10px">
 <a href="http://www.flickr.com/photos/ogeidix/8003407742/in/set-72157631551892294"><img src="http://farm9.staticflickr.com/8452/8003407742_ed5502afdb_s.jpg" /></a>
