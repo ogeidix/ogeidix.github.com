@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: California, here we come!
-tags: [travel, irvine]
+tags: [travel, irvine, couchsurfing]
 excerpt: "So it was that when I sealted the belt on the airplane I felt sleeping and when I woke up I was in... California!"
 image: http://farm9.staticflickr.com/8452/7993031284_bcedf7e028_s.jpg
 ---
