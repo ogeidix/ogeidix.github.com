@@ -2,25 +2,25 @@
 layout: posts
 title: Home Sweet Home
 tags: [irvine, couchsurfing, apartment]
-excerpt: "Wow, have happened more things in this week than in an entire month in Italy!"
+excerpt: "Wow, more things have happened this week than in an entire month in Italy!   "
 image: http://farm9.staticflickr.com/8310/8041768045_3f500e7380_s.jpg
 ---
 Home Sweet Home
 ===============
 
-Wow, have happened more things in this week than in an entire month in Italy!   
+Wow, more things have happened this week than in an entire month in Italy!   
 
 Did you want the bike? Now ride it!
 -----------------------------------
 
-First of all I eventually bought a bike!! I started to feel really stuck in these big landscapes so you can imagine how happy I was when I found a nice bicycle at a ragionable price on craigslist. Immediately I called the person and I ran to catch the bus.   
+First of all I eventually bought a bike!! I started to feel really stuck in these big landscapes so you can imagine how happy I was when I found a nice bicycle at a reasonable price on craigslist. Immediately I called the person and I ran to catch the bus.   
 The seller, infact, was not in Irvine but in the near city of Huntington Beach.   
 But... as I told you the nearest city is ten miles far from the campus...  
 So it was that I arrived really late at the appointement, also because the bus dropped me 2 miles far from my destination.
 Eventually I bought the (fantastic) bike and I started to ride back home when... my phone's battery died, and with it also the maps.   
-Obviously soon was dark and so I was riding a bike alone, more than 10 miles far from home, without maps!   
+Obviously it got dark soon and so I was riding a bike alone, more than 10 miles far from home, without maps!   
 
-After all it was a nice experience :) I enjoyed the nocturnal ride and at the end (2 hours late) I met two nice guys who picked me (and the bike) up in them car and drove me home!
+After all it was a nice experience :) I enjoyed the nocturnal ride and 2 hours later I met two nice guys who picked me (and the bike) up in their car and drove me home!
 
 <span style="font-size: 50%; color: #fff; background: #999; padding: 2px; letter-spacing: 1px; margin-right: 10px">&nbsp;COUCHSURFER LIFE </span> CS Meeting
 ---------------------------------------
@@ -32,13 +32,13 @@ After all it was a nice experience :) I enjoyed the nocturnal ride and at the en
 <br /><br />
 </div>
 
-Tuesday there was a great CouchSurfer's Meeting in Newport Beach, at which I obviously went with my new bike :)    
+On tuesday there was a great CouchSurfer's Meeting in Newport Beach, where I obviously went with my new bike :)    
 The party was really funny!! There were a lot of people, people from everywhere and with a lot of stories to tell.
 
 <br />
-I also met many people who were planning a trip in Italy and an italian who came here to head the construction of a big bridge.
+I also met many people who were planning a trip to Italy and an italian who came here to head the construction of a big bridge.
 
-At the meeting I met two crazy people: <a href="http://www.couchsurfing.org/people/chloe1993/">Chloe</a> and Jhonny! They were really funny and Chloe was so kind to host me from the day after the meeting.
+At the meeting I met two crazy people: <a href="http://www.couchsurfing.org/people/chloe1993/">Chloe</a> and Jhonny! They were really funny and Chloe was so kind to host me the day after the meeting.
 
 
 <span style="font-size: 50%; color: #fff; background: #999; padding: 2px; letter-spacing: 1px; margin-right: 10px">&nbsp;COUCHSURFER LIFE </span> Chloe and Jhonny
@@ -53,10 +53,10 @@ At the meeting I met two crazy people: <a href="http://www.couchsurfing.org/peop
 <br /><br />
 </div>
 
-Wednesday morning I moved to Chloe's House and from then I spent three days with her.   
-She is a full of live, dynamic, warm and funny girl! I really enjoyed the time spent together going to walk with her dog Sophie, meeting with Jhonny and hiking in LA with Ariel.
+On wednesday morning I moved to Chloe's House and I spent three days with her.   
+She is a girl full of live, dynamic, warm and funny! I really enjoyed the time spent together walking with her dog Sophie, meeting Jhonny and hiking in LA with Ariel.
 
-The last night Chloe, Jhonny and me cooked a big Italian meal. We cooked Pasta alla carbonara and we made bread!!
+Last night Chloe, Jhonny and me cooked a big Italian meal. We cooked Pasta alla carbonara and we made bread!!
 
 <span style="font-size: 50%; color: #fff; background: #999; padding: 2px; letter-spacing: 1px; margin-right: 10px">&nbsp;COUCHSURFER LIFE </span> with a brave nomad to the Hoolywood sign
 ----------------------------------------------------------
@@ -79,15 +79,15 @@ The last night Chloe, Jhonny and me cooked a big Italian meal. We cooked Pasta a
 </div>
 
 Chloe and me can't resist from a request of a couchsurfer looking for friends with which go to hiking.  
-So we leave Tustin and went to meet <a href="http://www.couchsurfing.org/people/arielzlat/">Ariel</a> in Los Angeles.  
+So we left Tustin and went to meet <a href="http://www.couchsurfing.org/people/arielzlat/">Ariel</a> in Los Angeles.  
 
 Ariel is a smart and brave guy who is doing one of the coolest things you can ever do: A trip across all the USA countries!
 He is only 20 but he has already visited more than half of the USA!!
 He is documenting everything on his blog: <a href="http://www.arielacrossamerica.com/">ArielAcrossAmerica.com</a> so you can go there and check where he is and what he has just done.
 
-Chloe, Ariel and me went to hike on the paths around the Hollywood sign and we took some crazy pictures. In the evening Ariel invited us to a special (and free) dinner to a restaurant of another couchsurfer in LA.  
-Along his way in California Ariel had a stop in Tustin hosted by Chloe and so we shared her "Couchsurfer Bedroom".  
-In the morning Ariel left again, but before he gave us something as remembering of our meeting. Buona Strada Ariel!
+Chloe, Ariel and me went hiking on the paths around the Hollywood sign and we took some crazy pictures. In the evening Ariel invited us to a special (and free) dinner in the restaurant of another couchsurfer in LA.  
+Along his way to California Ariel had a stop in Tustin hosted by Chloe and so we shared her "Couchsurfer Bedroom".  
+In the morning Ariel left again, but before he gave us something to remind us of the time spent together. Buona Strada Ariel!
 
 New apartment, great roommates and my bed
 -----------------------------------------
@@ -119,12 +119,12 @@ precisely in:
 </div>
 
 The apartment is really nice, quite spacious and completely new. I will share it with other 5 guys who are incredibly nice and friendly.
-I feel really lucky to have meet them as they are really nice, helpful and funny.  
-They brought in the apartment so many stuff that we spent 2 days setting up everything and then we went to pickup a couch found on craigslist.
+I feel really lucky to have met them as they are really nice, helpful and funny.  
+They brought in the apartment so much stuff that we spent 2 days setting up everything and then we went to pickup a couch found on craigslist.
 (The couch was so big that we had to rent a truck to move it!!)
 
 My roommates are Alex and Cristian (in the pictures with me) and we started some kind of cookery challenge.
-Each evening, one of us cook something particular, let me say that is better than a restaurant!
+Each evening, one of us cook something particular, let me say that it is better than a restaurant!
 
 Last picture of the month: my Bed!   
 After 1 month of couchsurfing and a big search for the apartment and for the bed (it was non included in the apartment!) I can barely belive to have my own room with my own bed. I just want to say that it seems to me the best bed ever :)
